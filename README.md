@@ -1,4 +1,4 @@
-local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
+[local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
    Name = "🔥 Skidrow Script Hub | Game ⚽",
@@ -119,3 +119,4 @@ local Toggle = MainTab:CreateToggle({
 })
 
 local TPTab = Window:CreateTab("🎲 Misc", nil) -- Title, Image
+](https://pastebin.com/raw/BEX7kW6W)
